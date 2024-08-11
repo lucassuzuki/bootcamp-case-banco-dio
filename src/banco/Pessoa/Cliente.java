@@ -1,4 +1,4 @@
-package banco;
+package banco.Pessoa;
 
 public class Cliente {
     private String nome;

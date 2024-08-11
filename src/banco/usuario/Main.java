@@ -1,4 +1,9 @@
-package banco;
+package banco.usuario;
+
+import banco.Pessoa.Cliente;
+import banco.conta.Conta;
+import banco.conta.ContaCorrente;
+import banco.conta.ContaPoupanca;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,6 +1,8 @@
-package banco;
+package banco.conta;
 
-public abstract class Conta implements IConta{
+import banco.Pessoa.Cliente;
+
+public abstract class Conta implements IConta {
     protected int agencia;
     protected int numero;
     protected double saldo;
